@@ -20,7 +20,7 @@ opkg install lua luci-lib-jsonc curl
 2. Download the script using wget::
 
 ```sh
-wget https://raw.githubusercontent.com/Ivanerr/openwrt-mesh-speed-monitor/main/iperf3_mesh_speed_test.lua -O /usr/bin/iperf3_mesh_speed_test.lua
+wget https://raw.githubusercontent.com/Ivanerr/openwrt-iperf3-ap-monitor/main/iperf3_mesh_speed_test.lua -O /usr/bin/iperf3_mesh_speed_test.lua
 ```
 
 3. Make it executable:
